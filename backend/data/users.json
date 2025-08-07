@@ -1,0 +1,1322 @@
+{
+  "user123": {
+    "userId": "user123",
+    "pointBalance": 0,
+    "walletAddress": null,
+    "transactions": [
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T02:01:32.179Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 4000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T02:01:32.185Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T02:01:35.750Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 4000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T02:01:35.756Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T02:01:36.328Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 4000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T02:01:36.334Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T02:01:38.537Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 4000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T02:01:38.542Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 5000,
+        "newBalance": 6000,
+        "timestamp": "2025-08-05T02:02:24.587Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 6000,
+        "newBalance": 7000,
+        "timestamp": "2025-08-05T02:02:26.636Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 7000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:02:36.694Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 8000,
+        "newBalance": 7000,
+        "timestamp": "2025-08-05T02:02:38.827Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 7000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:02:38.834Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 8000,
+        "newBalance": 9000,
+        "timestamp": "2025-08-05T02:04:43.545Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 9000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:04:45.107Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 8000,
+        "newBalance": 9000,
+        "timestamp": "2025-08-05T02:04:45.112Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 9000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:05:05.241Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 8000,
+        "newBalance": 9000,
+        "timestamp": "2025-08-05T02:05:05.245Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 9000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:05:57.844Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 8000,
+        "newBalance": 9000,
+        "timestamp": "2025-08-05T02:05:57.899Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 9000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:06:07.558Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 8000,
+        "newBalance": 9000,
+        "timestamp": "2025-08-05T02:06:07.587Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 9000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:06:08.363Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 8000,
+        "newBalance": 9000,
+        "timestamp": "2025-08-05T02:06:08.417Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 9000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:06:23.914Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Exchange failed - points restored",
+        "oldBalance": 8000,
+        "newBalance": 9000,
+        "timestamp": "2025-08-05T02:06:23.983Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 9000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:10:52.959Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 8000,
+        "newBalance": 7000,
+        "timestamp": "2025-08-05T02:10:53.371Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 7000,
+        "newBalance": 8000,
+        "timestamp": "2025-08-05T02:11:50.022Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 8000,
+        "newBalance": 7000,
+        "timestamp": "2025-08-05T02:11:51.919Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 7000,
+        "newBalance": 6000,
+        "timestamp": "2025-08-05T02:11:52.279Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 6000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T02:12:15.279Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T02:12:15.645Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T02:13:14.328Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T02:13:24.788Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T02:13:25.859Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T02:15:52.567Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T02:18:49.499Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T02:18:51.755Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T02:19:01.178Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T02:19:04.309Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T02:19:04.736Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T02:19:23.993Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T02:19:25.707Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T02:19:26.073Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:27:53.218Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:27:55.146Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:28:02.280Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:28:02.659Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:29:24.019Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:29:25.896Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:29:31.301Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:29:31.723Z"
+      },
+      {
+        "type": "earn",
+        "amount": 2000,
+        "reason": "Manual bonus",
+        "oldBalance": 0,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:31:00.750Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:31:21.949Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:31:22.329Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:31:59.753Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:32:01.170Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:32:03.251Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:32:03.684Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:32:42.632Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:32:46.539Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:32:49.548Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:32:49.915Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:32:58.647Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:33:00.898Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:33:03.261Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:33:03.635Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:35:12.718Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:35:19.198Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:39:25.893Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:39:31.853Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:39:32.289Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:39:56.408Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:39:58.955Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:40:00.386Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 4000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T03:41:19.256Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange test",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:41:24.194Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 4000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T03:42:25.550Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:42:27.221Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:42:27.594Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:45:26.092Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:45:26.544Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:46:26.977Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:46:50.199Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Token exchange - processing",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:46:50.661Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:47:06.012Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:47:07.558Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:48:08.345Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:48:10.078Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:48:11.806Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:48:14.662Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:48:25.088Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:48:30.852Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:48:32.455Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:50:15.930Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:50:18.153Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:50:26.304Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:50:31.896Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:51:02.045Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:51:04.000Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T03:52:49.764Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:52:51.526Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:52:52.914Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:52:55.104Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:52:56.331Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:53:02.980Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:53:04.735Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:53:07.007Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:53:08.870Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:53:10.832Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:53:26.817Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:53:31.429Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:53:33.910Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:54:37.506Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:54:39.691Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:55:54.049Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:55:55.802Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T03:55:57.191Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T03:55:58.646Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:55:59.732Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:56:00.803Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T03:56:18.312Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T03:56:21.135Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T04:11:41.344Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T04:11:43.129Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T04:11:46.765Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T04:43:50.511Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T04:43:54.460Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T04:50:36.351Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T04:53:01.584Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T04:53:05.383Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 4000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T04:53:08.846Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 5000,
+        "newBalance": 6000,
+        "timestamp": "2025-08-05T05:14:46.840Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 6000,
+        "newBalance": 5000,
+        "timestamp": "2025-08-05T05:14:48.718Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 5000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T05:21:21.900Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T05:23:29.793Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T05:24:58.142Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T05:24:59.894Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T05:28:42.055Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T05:29:01.390Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T05:32:18.732Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T05:32:20.680Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T05:32:23.437Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T05:32:26.424Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T05:35:51.487Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T05:35:58.800Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T05:36:01.552Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T06:47:54.652Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T06:47:56.938Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T06:49:46.228Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 1000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T06:49:47.618Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 2000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T06:49:48.896Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 3000,
+        "newBalance": 4000,
+        "timestamp": "2025-08-05T06:49:50.125Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 4000,
+        "newBalance": 3000,
+        "timestamp": "2025-08-05T06:49:52.671Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 3000,
+        "newBalance": 2000,
+        "timestamp": "2025-08-05T06:49:54.130Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 2000,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T06:49:54.757Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T06:49:56.242Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-05T07:05:55.588Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-05T07:05:57.858Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-07T00:47:12.523Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-07T00:47:16.145Z"
+      },
+      {
+        "type": "earn",
+        "amount": 1000,
+        "reason": "Daily bonus",
+        "oldBalance": 0,
+        "newBalance": 1000,
+        "timestamp": "2025-08-07T01:55:27.769Z"
+      },
+      {
+        "type": "deduct",
+        "amount": 1000,
+        "reason": "Simple token exchange",
+        "oldBalance": 1000,
+        "newBalance": 0,
+        "timestamp": "2025-08-07T01:55:30.529Z"
+      }
+    ],
+    "updatedAt": "2025-08-07T01:55:30.529Z"
+  }
+}
