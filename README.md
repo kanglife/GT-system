@@ -72,9 +72,16 @@
          frontend@0.0.0 dev 
          vite
          오후 12:23:09 [vite] (client) Re-optimizing dependencies because lockfile has changed
-
-         VITE v7.0.6  ready in 485 ms
+            VITE v7.0.6  ready in 485 ms
 
          ➜  Local:   http://localhost:5173/
          ➜  Network: use --host to expose
          ➜  press h + enter to show help
+
+
+
+
+### 실행영상
+![실행 동영상](https://github.com/user-attachments/assets/93539b23-4a20-4f01-b26b-07787d3e2aa5)
+
+
